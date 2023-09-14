@@ -1,7 +1,7 @@
 ### Introduction
 This is an Unreal5 VR project for COMP6371. Coherence and plausibility as crucial
-factors in creating an immersive experience. We wanted to investigate whether the use of context and
-immersion elements can balance out non-plausible elements. We implemented a matching/puzzle-type game that allows user to play in three different game scenes of rooms of increasing levels of plausibility.  We believed We wanted to explores the effect of manipulating the bottom-up layer
+factors in creating an immersive experience. We wanted to investigate whether the use of context 
+immersion elements can balance out non-plausible elements. We implemented a matching/puzzle-type game that allows user to play with Oculus devices in three different game scenes of rooms of increasing levels of plausibility.  We believed We wanted to explores the effect of manipulating the bottom-up layer
 (perception) on the sense of plausibility. 
 
 ### Gameplay mechanics 
